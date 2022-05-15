@@ -7,3 +7,18 @@ a few fields to fill out before the generation
   -should the password contain special characters?
 
 The app should also have a 'copy to clipboard' button
+
+5/15
+
+generation works
+
+need to create the form
+
+form is done
+
+Need to:
+  -make it prettty
+  -add copy to clipboard button 
+
+
+
