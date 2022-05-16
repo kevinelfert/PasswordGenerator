@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: whitesmoke;
+  background-color: ghostwhite;
   margin-left: 1em;
   margin-right: 1em;
 }
@@ -13,4 +13,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.form{
+  float: left;
+  width: 30%;
+  margin-left: 2em;
+}
+
+.password{
+  float: right;
+  width: 50%;
+  margin-right: 2em;
+}
+
+.password > button {
+  margin-top: 1em;
+}
+
+.select{
+  
 }

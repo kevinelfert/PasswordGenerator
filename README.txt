@@ -17,8 +17,18 @@ need to create the form
 form is done
 
 Need to:
-  -make it prettty
+  -make it look nice
   -add copy to clipboard button 
 
 
+5/16
 
+It looks nice
+the copy to clipbaord button is added
+
+I made a CLI interface too
+
+The problem today is that the select component has too many options which doesnt look great 
+I'm looking into making a smoother option list
+
+made select look smoother
